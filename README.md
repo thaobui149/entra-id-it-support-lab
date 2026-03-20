@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Entra ID IT Support Lab
 
 ## Overview
@@ -114,6 +113,3 @@ Ticket workflow:
 
 ## Author
 Thao Bui
-=======
-# entra-id-it-support-lab
->>>>>>> 1ba41891a036ad039a6013fd44fc95e931727f1d
