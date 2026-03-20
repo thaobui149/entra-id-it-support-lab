@@ -1,0 +1,1 @@
+Get-MgUser | Select-Object DisplayName, UserPrincipalName, AccountEnabled
