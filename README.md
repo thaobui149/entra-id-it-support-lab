@@ -44,18 +44,20 @@ Ticket workflow:
 - Connected to Entra ID using `Connect-MgGraph`
 - Retrieved users using `Get-MgUser`
 - Created users using `New-MgUser`
-- Verified account creation and status
+- Verified account creation and status using `Get-MgUser`
 
 ---
 
 ## Project Structure
- entra-id-it-support-lab/
-│
+
+```
+entra-id-it-support-lab/
 ├── docs/
 ├── scripts/
 ├── screenshots/
 ├── tickets/
 └── README.md
+```
 
 ---
 
